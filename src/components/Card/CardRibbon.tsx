@@ -18,7 +18,7 @@ const StyledCardRibbon = styled.div<Partial<StyledCardRibbonProps>>`
   text-align: center;
   transform: translateX(30%) translateY(0%) rotate(45deg);
   transform-origin: top left;
-  width: 96px;
+  width: 600px;
 
   &:before,
   &:after {
