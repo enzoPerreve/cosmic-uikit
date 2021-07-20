@@ -8,9 +8,9 @@ export default {
 };
 
 const Stub = styled.div`
-  width: 100%;
+  width: 200%;
   background: #1fc7d4;
-  height: 300px;
+  height: 800px;
 `;
 
 export const Base: React.FC = () => {
